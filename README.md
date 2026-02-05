@@ -4,7 +4,7 @@ Cryptographic skill verification for [OpenClaw](https://github.com/openclaw/open
 
 Sign installed skills with SHA-256 content hashes. Verify they haven't been tampered with. Detect exactly which files changed.
 
-**Looking for automated enforcement?** See [openclaw-signet-pro](https://github.com/AtlasPA/openclaw-signet-pro) for rejection, quarantine, and trust chain restoration.
+**Want automated countermeasures?** Upgrade to Pro — reject unsigned skills, quarantine tampered skills, restore from trusted state, and pre-install verification. [Get Pro access](https://github.com/sponsors/AtlasPA).
 
 ## Install
 
@@ -43,7 +43,7 @@ If any file within a skill is modified, added, or removed, the composite hash ch
 
 ## Free vs Pro
 
-| Feature | Free | [Pro](https://github.com/AtlasPA/openclaw-signet-pro) |
+| Feature | Free | [Pro](https://github.com/sponsors/AtlasPA) |
 |---------|------|-----|
 | SHA-256 skill signing | Yes | Yes |
 | Tamper detection | Yes | Yes |
